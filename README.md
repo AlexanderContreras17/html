@@ -1,2 +1,2 @@
-# html
-practicas en html, css, Js
+# HTML
+practicas en HTML, CSS, Js
